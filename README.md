@@ -13,6 +13,15 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>13-02-2020</h4>
+<hr>
+<ul>
+<li><a href='https://tselai.com/modern-data-practice-and-the-sql-tradition.html'>
+Modern Data Practice and the SQL Tradition 
+</a>Reconsider to take advantage of advanced RDBMS features (such as triggers and stored procedures) and propose to "use RDBMS in the first place" by comparing performance with NoSQL, Python library Pandas and distributed system ElasticSearch. 
+</li>
+</ul>
+
 <h4>12-02-2020</h4>
 <hr>
 <ul>
