@@ -13,6 +13,14 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>15-02-2020</h4>
+<ul>
+<li><a href='https://multithreaded.stitchfix.com/blog/2018/09/05/datahighway/'>Putting the Power of Kafka into the Hands of Data Scientists</a> Prototype and build data integration Highway that design self-service layer on top of Kafka, use Kafka Connect for integration.</li>
+<li><a href='https://sourcery.ai/blog/python-best-practices/'>How to set up a perfect Python project</a> It introduces good practice how to set up and design a Python project using Pytest for test, Black for formatting, isort for import sorting, mypy for static typing, flake8 for linting, pre-commit for Git hook that runs scripts automatically when push/commit. 
+</li> 
+<li><a href=''>Yes silver bullet</a> This article is delightful. Reframe essential and accidential complex in software development, quoted William Gibson's word, <i><strong>"The future is already here — it's just not very evenly distributed." </strong></i> is appropriately explain changes such as Automated testing, Statically typed functional programming.</li>
+</ul>
+
 <h4>13-02-2020</h4>
 <hr>
 <ul>
