@@ -13,7 +13,21 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>20-02-2020</h4>
+<hr>
+<ul>
+<li><a href='https://overreacted.io/my-decade-in-review/'>My Decade in Review</a>
+This article is whole story about Dan Abramov, a self taught but one of the best programmers in web dev world. Bookmark it by inspired by his open source spirit.
+</li>
+<li><a href='https://storiesinmypocket.com/articles/refactoring-and-asking-forgiveness/'>Refactoring and asking for forgiveness</a> This article talks about how to use programming pattern EAEP (easier to ask for forgiveness than permission), instead of LBYL (look before you leap).</li> 
+<li>
+<a href=''>From Academia to Data Science</a>
+Fill the gap between academic CS and industrial ML/DL. 
+</li> 
+</ul>
+
 <h4>15-02-2020</h4>
+<hr>
 <ul>
 <li><a href='https://multithreaded.stitchfix.com/blog/2018/09/05/datahighway/'>Putting the Power of Kafka into the Hands of Data Scientists</a> Prototype and build data integration Highway that design self-service layer on top of Kafka, use Kafka Connect for integration.</li>
 <li><a href='https://sourcery.ai/blog/python-best-practices/'>How to set up a perfect Python project</a> It introduces good practice how to set up and design a Python project using Pytest for test, Black for formatting, isort for import sorting, mypy for static typing, flake8 for linting, pre-commit for Git hook that runs scripts automatically when push/commit. 
