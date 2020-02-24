@@ -13,6 +13,21 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>24-02-2020</h4>
+<hr>
+<ul>
+<li><a href='http://michal.karzynski.pl/blog/2019/05/26/python-project-maturity-checklist/'>Python project maturity checklist</a> This is article is written by Michał Karzyński, who gives a typical checklist how to turn Python script into a fully fledged open-source project. It covers step-to-step guide how to use setuptools, Black, pre-commit etc. 
+</li>
+<li><a href='https://ep2019.europython.eu/talks/ZJ7mNEK-the-soul-of-the-beast/'>The soul of the beast, Everything about Python's grammar</a> Hacking the grammar, the talk can be found on this <a href='https://www.youtube.com/watch?v=avLK67SHeAs'>link</a>.
+</li>
+<li><a href='https://glyph.twistedmatrix.com/2020/02/modules-for-maintenance.html'>Modularity for Maintenance</a>
+Never send a human to do a machine’s job.
+</li>
+<li><a href='https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/'>On Eliminating Error in Distributed Software Systems</a> It reviews some common techniques used to eliminate errors in software systems: testing, the type system, functional programming, and formal verification.
+</li> 
+<li><a href='https://pythonspeed.com/docker/'>Production-ready Docker packaging</a>
+Docker packaging guide for Python.</li>
+</ul>
 <h4>20-02-2020</h4>
 <hr>
 <ul>
