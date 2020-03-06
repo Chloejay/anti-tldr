@@ -13,6 +13,14 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>06-03-2020</h4>
+<hr>
+<ul>
+<li>
+<a href='https://geirsson.com/scalameta.html'>Three cool things you can do with Scalameta</a> The usage about Scalameta library. 
+</li>
+</ul>
+
 <h4>24-02-2020</h4>
 <hr>
 <ul>
