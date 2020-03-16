@@ -13,6 +13,18 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>16-03-2020</h4>
+<hr>
+<ul>
+<li>
+<a href="http://blogs.tedneward.com/patterns/abstractfactory/">Abstract Factory</a> Factory pattern for Scala. 
+</li>
+<li><a href="https://pavelfatin.com/design-patterns-in-scala/">Design Patterns in Scala</a> 
+</li>
+<li><a href='https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae'>Advanced multi-stage build patterns</a> It introduces patterns how to write multiple FROM/--from flag in Dockerfile by constructing multiple stages. 
+</li>
+</ul>
+
 <h4>06-03-2020</h4>
 <hr>
 <ul>
