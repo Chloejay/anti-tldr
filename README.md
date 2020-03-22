@@ -24,7 +24,7 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </li>
 <li>
 <a href="https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/">Tagless with Discipline — Testing Scala Code the Right Way</a>
-The discipline of writing Scala test.  
+The code discipline about how to write test and use library Discipline to write Scala test. 
 </li>
 <li>
 <a href="http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html">Type Erasure in Scala</a> Scala is type-safe language, the code if can compiled but can't be available to be used in run-time, for type erasure error. Using Scala reflection API to inspect the types of the instance at run-time is a solution, or use polymorphism subtypes. 
