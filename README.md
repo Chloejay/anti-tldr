@@ -13,6 +13,30 @@ The stuff I'm interested reading is programming, code architecture, engineering,
 </ul>
  </blockquote>
 
+<h4>22-03-2020</h4>
+<hr>
+<ul>
+<li>
+<a href="https://squeakyvessel.com/2015/05/12/mature-developers/">Mature Developers</a> This article talks about the quality that mature developer should build.
+</li>
+<li>
+<a href="https://stevedower.id.au/blog/most-critical-python-metric">The most critical Python code metric</a> It suggests that for dynamic code, writing tests is actually the best way to ensure your architecture is well designed. 
+</li>
+<li>
+<a href="https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/">Tagless with Discipline — Testing Scala Code the Right Way</a>
+The discipline of writing Scala test.  
+</li>
+<li>
+<a href="http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html">Type Erasure in Scala</a> Scala is type-safe language, the code if can compiled but can't be available to be used in run-time, for type erasure error. Using Scala reflection API to inspect the types of the instance at run-time is a solution, or use polymorphism subtypes. 
+</li>
+<li>
+<a href="https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f">The Evolution of a Scala Programmer</a> Good examples of Scala patterns.
+</li>
+<li>
+<a href="https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f">A little bit of Data Science in Scala</a> It talks how to use Scala for DS project, especially Scala collection library is easy and fast for data processing and similar to Spark API.
+</li>
+</ul>
+
 <h4>16-03-2020</h4>
 <hr>
 <ul>
