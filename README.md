@@ -1,17 +1,54 @@
-I list tech related blogs, talks, slides and books I found interesting and useful, which so I use this repo as a cloud bookmark. 
+I document tech related List(blog, talk, slide and book)s I found interesting and useful, which so I use this repo as a cloud bookmark. 
 
-The stuff I'm interested reading is programming, code architecture, engineering, machine (deep) learning, computer vision and clean code OOP/FP. 
+Functional programming and programming in general, code architecture, engineering, machine (deep) learning, computer vision. 
 <blockquote>
 <ul>
     <li>
-    The language is approx 80% is Python for sure. &#9749
+    About Scala and Python. &#9749
     </li>
     <li>
-    I will update when I found something interesting, so frequency range: [daily, weekly, monthly). 
+    I will update when I found something interesting. 
     &#128521;
     </li>
 </ul>
- </blockquote>
+</blockquote>
+
+<h4>04-04-2020</h4>
+<hr>
+<ul>
+<li>
+<a href='https://bartoszmilewski.com/2014/11/24/types-and-functions/'>Types and Functions</a> Types are about composability, type system to design a type family (type parameters) to improve program performance.  
+</li>
+</ul>
+
+<h4>31-03-2020</h4>
+<hr>
+<ul>
+<li>
+<a href='https://blog.kubukoz.com/what-makes-a-function-pure'>What makes a function pure?</a>Pure function has feature totality, determinism, purity. 
+</li>
+<li>
+<a href="http://degoes.net/articles/easy-monads">A Beginner-Friendly Tour through Functional Programming in Scala</a> Pure FP! 
+</li>
+<li>
+<a href="http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/">Covariance and contravariance in Scala</a> Concept of covariance and contravariance in Scala, type parameter for subtyping.
+</li>
+<li>
+<a href="https://medium.com/javarevisited/variance-in-java-and-scala-63af925d21dc">A Complete Guide to Variance in Java and Scala</a> 
+</li>
+<li>
+<a href="http://james-iry.blogspot.com/2007/09/monads-are-elephants-part-1.html">Monads are Elephants Part 1</a> It talks about using unit and flatMap for Monad concept. 
+</li>
+<li>
+<a href="https://www.geekabyte.io/2018/05/thoughts-on-dealing-with-having-another.html">Thoughts On Working With Nested Monad Within The Future Monad In Scala</a> Use sugared `for comprehension`, encode the failure in Future or Monad Transformers with Cats EitherT for monad Future[Either[F, S]]. 
+</li>
+<li>
+<a href="http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html">Strategic Scala Style: Principle of Least Power</a> 
+</li> This is a style guidance to write clean and DRY Scala code, by using Principle of Least Power philosophy, refactoring code, don't over engineer and avoid complexity. 
+<li>
+<a href='http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html'>What's Functional Programming All About?</a>"FP" in software world. 
+</li> 
+</ul>
 
 <h4>22-03-2020</h4>
 <hr>
@@ -92,7 +129,7 @@ Fill the gap between academic CS and industrial ML/DL.
 <li><a href='https://multithreaded.stitchfix.com/blog/2018/09/05/datahighway/'>Putting the Power of Kafka into the Hands of Data Scientists</a> Prototype and build data integration Highway that design self-service layer on top of Kafka, use Kafka Connect for integration.</li>
 <li><a href='https://sourcery.ai/blog/python-best-practices/'>How to set up a perfect Python project</a> It introduces good practice how to set up and design a Python project using Pytest for test, Black for formatting, isort for import sorting, mypy for static typing, flake8 for linting, pre-commit for Git hook that runs scripts automatically when push/commit. 
 </li> 
-<li><a href=''>Yes silver bullet</a> This article is delightful. Reframe essential and accidential complex in software development, quoted William Gibson's word, <i><strong>"The future is already here — it's just not very evenly distributed." </strong></i> is appropriately explain changes such as Automated testing, Statically typed functional programming.</li>
+<li><a href=''>Yes silver bullet</a> This article is delightful. Reframe essential and accidental complex in software development, quoted William Gibson's word, <i><strong>"The future is already here — it's just not very evenly distributed." </strong></i> is appropriately explain changes such as Automated testing, Statically typed functional programming.</li>
 </ul>
 
 <h4>13-02-2020</h4>
@@ -109,14 +146,14 @@ Modern Data Practice and the SQL Tradition
 <ul>
 <li>
 <a href='https://blog.octo.com/en/cache-me-if-you-can-1/'>Cache me if you can – 1</a>
-It talks about HTTP caching, offers an intro for why need caching (from CDN, reverse proxy part) and how it works by gaining theoretical insights about Cache-Control, Etag, If-Modified-Since and etc, analysis of the anatomy of a modern web application, to conclude caching is the solution to solce the latency bottleneck.
+It talks about HTTP caching, offers an intro for why need caching (from CDN, reverse proxy part) and how it works by gaining theoretical insights about Cache-Control, Etag, If-Modified-Since and etc, analysis of the anatomy of a modern web application, to conclude caching is solution to solve the latency bottleneck.
 </li>
 <li><a href='https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c'>Static Analysis at Scale: An Instagram Story</a> 
 A Python use case for introducing Linting for type checking, and implement with Pyre in production.
 </li> 
 <li>
 <a href='https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache'>Scalability for Dummies - Part 3: Cache</a>
-It talks about in-memory cache Redis and two cache patterns, cached databse query and cached object. 
+It talks about in-memory cache Redis and two cache patterns, cached database query and cached object. 
 </li>
 <li>
 <a href=''>Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a> A Pycon talk about issue and tool for imposter syndrome in programming community. 
@@ -130,7 +167,7 @@ It talks about in-memory cache Redis and two cache patterns, cached databse quer
     <a href='https://itnext.io/introduction-to-event-streaming-with-kafka-and-kafdrop-73290625b1e2'>Introduction to Event Streaming with Kafka and Kafdrop
     </a>
     <!-- <br/> -->
-    Introduce event-driven architecture by broken down to main components broker, zookeeper, producer and consumer for pubsub system. Illustrate relation among topic, message, partition, offset, covering load balancing and delivery gurantee model. By understand better, it introduce Kafka web UI tool KafDrop. 
+    Introduce event-driven architecture by broken down to main components broker, zookeeper, producer and consumer for pubsub system. Illustrate relation among topic, message, partition, offset, covering load balancing and delivery guarantee model. By understand better, it introduces Kafka web UI tool KafDrop. 
     </li>
     <li>
     <a href='https://ordepdev.me/posts/tales-from-running-kafka-streams-in-production'>Tales from running Kafka Streams in Production
