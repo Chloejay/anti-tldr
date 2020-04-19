@@ -13,6 +13,30 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>20-04-2020</h4>
+<hr>
+<ul>
+<li>
+<a href='https://typelevel.org/blog/2017/12/20/who-implements-typeclass.html'>Who implements the typeclass instance?</a> Ad-hoc polymorphism with <code>GADT</code> pattern matching. 
+</li>
+<li>
+<a href='https://0x0fff.com/spark-architecture/'>Distributed Systems Architecture</a> Spark Architecture, how the memory be used by total <strong>heap</strong> size, YARN resource manager works. 
+</li>
+<li><a href="https://www.matfournier.com/2020-01-15-getting-funcey-part3-typeclasses/">Getting Func-ey Part 3 - Typeclasses
+</a> It talks about to use pattern style <code>implicit</code> to implement <code>typeclass</code>, <code>record of functions</code> Haskell to think typeclass as class + method and MonadError. 
+</li>
+<li><a href="http://matt.might.net/articles/compiling-up-to-lambda-calculus/">Compiling to lambda-calculus: Turtles all the way down</a> Using Church encoding to formulate function currying, destructuring match etc. 
+</li>
+<li><a href="https://olivermascarenhas.com/2020-04-13-building-analytical-datalake-with-apache-spark-and-apache-hudi/">Building an
+analytical data lake with Apache Spark and Apache Hudi - Part 1</a> Scala Spark to build data lake. 
+</li>
+<li><a href="https://www.matfournier.com/2019-07-25-effects/">Programming With Effects</a> Main generic applicative methods on effects. 
+</li>
+<li><a href="http://okmij.org/ftp/tagless-final/course/lecture.pdf">Typed Tagless Final Interpreters</a> Generics functional programming using <code>final tagless</code> pattern by Oleg Kiselyov.</li>
+<li><a href="http://blog.higher-order.com/blog/2008/12/04/no-such-thing/">Objects, Identity, and Concept-formation
+</a>An eye open article about <cite>There is no such thing as Object-Oriented programming.</cite></li>
+</ul>
+
 <h4>04-04-2020</h4>
 <hr>
 <ul>
@@ -40,7 +64,7 @@ Functional programming and programming in general, code architecture, engineerin
 <a href="http://james-iry.blogspot.com/2007/09/monads-are-elephants-part-1.html">Monads are Elephants Part 1</a> It talks about using unit and flatMap for Monad concept. 
 </li>
 <li>
-<a href="https://www.geekabyte.io/2018/05/thoughts-on-dealing-with-having-another.html">Thoughts On Working With Nested Monad Within The Future Monad In Scala</a> Use sugared `for comprehension`, encode the failure in Future or Monad Transformers with Cats EitherT for monad Future[Either[F, S]]. 
+<a href="https://www.geekabyte.io/2018/05/thoughts-on-dealing-with-having-another.html">Thoughts On Working With Nested Monad Within The Future Monad In Scala</a> Use sugared <code>for comprehension</code>, encode the failure in Future or Monad Transformers with Cats EitherT for monad <code>Future[Either[F, S]]</code>. 
 </li>
 <li>
 <a href="http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html">Strategic Scala Style: Principle of Least Power</a> 
@@ -64,7 +88,7 @@ Functional programming and programming in general, code architecture, engineerin
 The code discipline about how to write test and use library Discipline to write Scala test. 
 </li>
 <li>
-<a href="http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html">Type Erasure in Scala</a> Scala is type-safe language, the code if can compiled but can't be available to be used in run-time, for type erasure error. Using Scala reflection API to inspect the types of the instance at run-time is a solution, or use polymorphism subtypes. 
+<a href="http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html">Type Erasure in Scala</a> Scala is type-safe language, the code if can compiled but can't be available to be used in run-time, for type erasure error. Using Scala reflection API to inspect types of the instance at run-time is a solution, or use polymorphism subtypes. 
 </li>
 <li>
 <a href="https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f">The Evolution of a Scala Programmer</a> Good examples of Scala patterns.
@@ -118,7 +142,7 @@ This article is whole story about Dan Abramov, a self taught but one of the best
 </li>
 <li><a href='https://storiesinmypocket.com/articles/refactoring-and-asking-forgiveness/'>Refactoring and asking for forgiveness</a> This article talks about how to use programming pattern EAEP (easier to ask for forgiveness than permission), instead of LBYL (look before you leap).</li> 
 <li>
-<a href=''>From Academia to Data Science</a>
+<a href='https://www.heinrichhartmann.com/blog/data-science.html'>From Academia to Data Science</a>
 Fill the gap between academic CS and industrial ML/DL. 
 </li> 
 </ul>
@@ -129,7 +153,7 @@ Fill the gap between academic CS and industrial ML/DL.
 <li><a href='https://multithreaded.stitchfix.com/blog/2018/09/05/datahighway/'>Putting the Power of Kafka into the Hands of Data Scientists</a> Prototype and build data integration Highway that design self-service layer on top of Kafka, use Kafka Connect for integration.</li>
 <li><a href='https://sourcery.ai/blog/python-best-practices/'>How to set up a perfect Python project</a> It introduces good practice how to set up and design a Python project using Pytest for test, Black for formatting, isort for import sorting, mypy for static typing, flake8 for linting, pre-commit for Git hook that runs scripts automatically when push/commit. 
 </li> 
-<li><a href=''>Yes silver bullet</a> This article is delightful. Reframe essential and accidental complex in software development, quoted William Gibson's word, <i><strong>"The future is already here — it's just not very evenly distributed." </strong></i> is appropriately explain changes such as Automated testing, Statically typed functional programming.</li>
+<li><a href='https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/'>Yes silver bullet</a> This article is delightful. Reframe essential and accidental complex in software development, quoted William Gibson's word, <i><strong>"The future is already here — it's just not very evenly distributed." </strong></i> is appropriately explain changes such as Automated testing, Statically typed functional programming.</li>
 </ul>
 
 <h4>13-02-2020</h4>
@@ -156,7 +180,7 @@ A Python use case for introducing Linting for type checking, and implement with 
 It talks about in-memory cache Redis and two cache patterns, cached database query and cached object. 
 </li>
 <li>
-<a href=''>Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a> A Pycon talk about issue and tool for imposter syndrome in programming community. 
+<a href='https://www.youtube.com/watch?v=1i8ylq4j_EY'>Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a> A Pycon talk about issue and tool for imposter syndrome in programming community. 
 </li>
 </ul>
 
@@ -174,7 +198,7 @@ It talks about in-memory cache Redis and two cache patterns, cached database que
     </a>The key components in Kafka processing layer. 
     </li>
     <li>
-    <a href=''>A Glossary of Functional Programming</a> A collection of simple (but reasonably precise) pedagogical definitions for a range of functional concepts.
+    <a href='https://degoes.net/articles/fp-glossary'>A Glossary of Functional Programming</a> A collection of simple (but reasonably precise) pedagogical definitions for a range of functional concepts.
     </li>
     <li>
     <a href='https://www.infoq.com/presentations/data-streaming-kafka-debezium/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design'>Practical Change Data Streaming Use Cases with Apache Kafka & Debezium 
