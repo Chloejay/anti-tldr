@@ -13,6 +13,24 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>28-04-2020</h4>
+<hr>
+<ul>
+<li>
+<a href="http://www.defmacro.org/2006/06/19/fp.html">Functional Programming For The Rest of Us</a> It's a good one about the root of FP, from philosophy of maths to laws of universe, lambda calculus. 
+</li>
+<li><a href="https://sites.google.com/a/gertrudandcope.com/info/Publications/Patterns/C--Report/SpaceIII">To Iterate is Human, to Recurse, Divine</a> Talk about beauty of code structure by control(time) and data(structure), and higher order function is an idea of <code>chunks of logic</code>.</li>
+<li><a href="https://0x0fff.com/spark-architecture-shuffle/">Spark Architecture: Shuffle</a> Hash, Sort shuffle and off-heap storage buffer explained.</li>
+<li><a href="https://jobs.zalando.com/en/tech/blog/why-we-do-scala/">Why We Do Scala in Zalando</a> Type system and function composition,referential transparency(RT), Monad transformer in Scala.</li>
+<li><a href="https://kubukoz.github.io/talks/typelevel-alchemist/slides/">typelevel-alchemist</a> Typeclass and Cats library explained.</li>
+<li><a href="https://databricks.com/session/designing-a-horizontally-scalable-event-driven-big-data-architecture-with-apache-spark">Designing a Horizontally Scalable Event-Driven Big Data Architecture with Apache Spark</a> Data ingestion with Kafka Connect and Spark Stream and toolsets for data processing and analytics.</li>
+<li><a href="https://blog.buildo.io/monad-transformers-for-the-working-programmer-aa7e981190e7"> Monad Transformers for the working programmer</a> Monad doesn't compose and use Cats library to transform Monad, use OptionT, EitherT and other constructors.</li>
+<li><a href="https://medium.com/adobetech/spark-on-scala-adobe-analytics-reference-architecture-7457f5614b4c">Spark on Scala: Adobe Analytics Reference Architecture</a> Spark Scala to build scalable data processing pipeline.</li>
+<li><a href="https://godatadriven.com/blog/typechecking-sql-queries-with-doobie/">Typechecking SQL queries with doobie</a> Combine doobie (a principled JDBC layer) and Monix (asynchronous programming in Scala) to obtain fast, concise and typechecked JDBC SQL database.</li>
+<li><a href="https://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/">Introduction to Category Theory in
+Scala</a> Categories and functors in Scala.</li>
+</ul>
+
 <h4>20-04-2020</h4>
 <hr>
 <ul>
