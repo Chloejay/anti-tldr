@@ -13,6 +13,18 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>03-05-2020</h4>
+<hr>
+<ul>
+<li><a href="https://brianmckenna.org/blog/polymorphic_programming">Polymorphic Programming</a> Polymorphic languages to abstraction to solve problem in an identical way.</li>
+<li><a href="http://anthonycros.com/turn-scala-into-spark/">Turning Scala code into Spark</a> Use Scala for declarative approach for Spark data processing.</li>
+<li><a href="https://tobiaskohn.ch/index.php/2018/09/12/implementing-pattern-matching/">Implementing Pattern Matching in Python</a> Using Scala's pattern matching concept to implement AST in Python.</li>
+<li><a href="https://eli.thegreenplace.net/2018/covariance-and-contravariance-in-subtyping/">Covariance and contravariance in subtyping</a> It introduces Liskov substitution principle for subtyping, creating immutableList type to implement convariance in Python. Plus one rule to follow, is `be liberal in what you accept and conservative in what you produce`.</li>
+<li><a href="https://eli.thegreenplace.net/2016/some-notes-on-the-y-combinator/">Some notes on the Y combinator</a> Demonstrates Y-combinator concept with using lambda function in Python.</li> 
+<li><a href="https://www.rittmanmead.com/blog/2017/01/data-processing-and-enrichment-in-spark-streaming-with-python-and-kafka/">Data Processing and Enrichment in Spark Streaming with Python and Kafka</a> Batch and windowed streaming processing by using Spark and Kafka.</li>
+<li><a href="https://www.oreilly.com/radar/podcast/data-architectures-for-streaming-applications/">Data architectures for streaming applications</a> The architectures for stream (unbounded) processing, Scala, and cloud computing.</li>
+</ul>
+
 <h4>28-04-2020</h4>
 <hr>
 <ul>
