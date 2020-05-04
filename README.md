@@ -13,6 +13,14 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>04-05-2020</h4>
+<hr>
+<ul>
+<li><a href="https://pyfound.blogspot.com/2020/04/the-path-forward-for-typing-python.html">The path forward for typing - Python Language Summit 2020</a> Typing in Python.</li>
+<li><a href="https://degoes.net/articles/no-effect-tracking">Effect Tracking Is Commercially Worthless</a> To FP, effect tracking is commercially worthless.</li>
+<li><a href="https://julien.danjou.info/python-memcached-efficient-caching-in-distributed-applications/">Python + Memcached: Efficient Caching in Distributed Applications</a> Use Memcached cache to boost application performance.</li>
+</ul>
+
 <h4>03-05-2020</h4>
 <hr>
 <ul>
