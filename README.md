@@ -13,6 +13,36 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+
+<h4>13-05-2020</h4>
+<hr>
+<ul>
+<li><a href="https://www.kai-waehner.de/blog/2020/03/12/can-apache-kafka-replace-database-acid-storage-transactions-sql-nosql-data-lake/">Can Apache Kafka Replace a Database?</a> Evaluate Kafka to Database features, to see Kafka is a good for as a database.
+</li>
+<li><a href="https://www.pydanny.com/python-dot-py-tricks.html">setup.py tricks</a> Package management.</li>
+<li><a href="http://yloiseau.net/articles/DesignPatterns/flyweight/">Design Patterns and Python Flyweight Pattern</a> Compare Flyweight methods</li>
+<li><a href="https://allegro.tech/2015/08/spark-kafka-integration.html">Spark and Kafka integration patterns</a> Integrate Spark Streaming and Kafka, Kafka producer for publishing results of the Spark Streaming processing.</li>
+<li><a href="http://mkuthan.github.io/blog/2016/01/29/spark-kafka-integration2/">Spark and Kafka Integration Patterns, Part 2</a> Sending Spark Streaming processing results to Kafka</li>
+<li><a href="https://vimeo.com/192429554">Test strategies for data processing pipelines</a></li>
+<li><a href="">Functional Programming with Kafka Streams and Scala</a> Implement Scala and Kafka Streams for data processing by producing and consuming method, and Circle Json library.</li>
+<li><a href="https://www.jamesserra.com/archive/2016/08/what-is-the-lambda-architecture/">What is the Lambda Architecture?</a> Demonstrate how to use Lambda Architecture to design batch layer, stream layer, serving layer.</li>
+<li><a href="https://www.jesse-anderson.com/2019/01/the-three-components-of-a-big-data-data-pipeline/">The Three Components of a Big Data Data Pipeline</a> Data Engineering = <code>Compute + Storage + Messaging</code> + Coding + Architecture + Domain Knowledge + Use Cases</li>
+</ul>
+
+<h4>09-05-2020</h4>
+<hr>
+<ul>
+<li><a href="https://slideslive.com/38908126/oh-all-the-things-youll-traverse?ref=recommended-presentation-38908724">Oh, All the things you'll traverse</a> Traversable <code>@typeclass</code> of monoids and functors.</li>
+<li><a href="https://www.47deg.com/blog/fp-for-the-average-joe-part-1-scalaz-validation/">FP for the average Joe - I - ScalaZ Validation</a> Generic Validation to compute both Success and Failure.</li>
+<li><a href="https://www.thoughtworks.com/insights/blog/capturing-data-pipeline-errors-functionally-writer-monads">Capturing data pipeline errors functionally with Writer Monads</a></li>
+<li><a href="https://nikgrozev.com/2016/04/11/functional-programming-and-category-theory-part-2-applicative-functors/">Functional Programming and Category Theory [Part 2] – Applicative Functors</a></li>
+<li><a href="https://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/">Improve Your Python: Metaclasses and Dynamic Classes With Type</a> Everything has type, a type is a metaclass.</li>
+<li><a href="https://www.jeffknupp.com/blog/2018/10/11/write-better-python-functions/">Write Better Python Functions</a> Signs of good function and how to refactor.</li>
+<li><a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a> Build distributed architectures at scale by using data mesh. </li>
+<li><a href="https://blog.softwaremill.com/how-to-keep-your-docker-installation-clean-98a74eb7e7b3">How to keep your docker installation clean?</a> How to save disk space and safely remove docker images and volumes.</li>
+<li><a href="https://softwaremill.com/using-kafka-as-a-message-queue/">Using Kafka as a message queue</a> Explain how to read messages from clusters use <code>at least once</code> delivery policy and how to handle errors.</li>
+</ul>
+
 <h4>04-05-2020</h4>
 <hr>
 <ul>
