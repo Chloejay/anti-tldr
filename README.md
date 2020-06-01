@@ -1,6 +1,6 @@
-I document tech related List(blog, talk, slide and book)s I found interesting and useful, which so I use this repo as a cloud bookmark. 
+I document tech related List(blog, talk, slide and book)s I found interesting and useful, so I use this repo as a cloud bookmark. 
 
-Functional programming and programming in general, code architecture, engineering, machine (deep) learning, computer vision. 
+Functional programming and programming in general, code architecture, engineering, machine (deep) learning, computer vision.
 <blockquote>
 <ul>
     <li>
@@ -13,6 +13,16 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>01-06-2020</h4>
+<hr>
+<ul>
+<li><a href="https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb">What a typical 100% Serverless Architecture looks like in AWS!</a> Best-practices serverless architecture for a web application.</li>
+<li><a href="https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html">IMPORT SUGGESTIONS IN SCALA 3</a> Improvement for `implicit`.</li>
+<li><a href="https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb">Airflow: Tips, Tricks, and Pitfalls</a> Use factory method to run subdag.</li>
+<li><a href="https://medium.com/wbaa/datas-inferno-7-circles-of-data-testing-hell-with-airflow-cef4adff58d8">Data’s Inferno: 7 Circles of Data Testing Hell with Airflow</a> CI for Airflow pipeline, from DAG integrity tests to DTAP.</li>
+<li><a href="https://julien.danjou.info/guide-python-static-class-abstract-methods/">The definitive guide on how to use static, class or abstract methods in Python</a> Object reference and (un)binding for methods</li>
+<li><a href="https://sizovs.net/2020/03/26/developers-dont-need-ping-pong-tables/">DEVELOPERS DON'T NEED PING-PONG TABLES</a> Opposite, they need autonomy, mastery, and purpose. Well hit!</li>
+</ul>
 
 <h4>13-05-2020</h4>
 <hr>
