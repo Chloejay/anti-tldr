@@ -21,6 +21,7 @@ Functional programming and programming in general, code architecture, engineerin
 Resilient, Maintainable and Scalable Big Data Solutions</a> A walk through about Lambda architecture.
 </li>
 <li><a href="https://michaelfeathers.silvrback.com/functional-code-is-honest-code">Functional Code is Honest Code</a> Programming without side effects is a honest signature.</li>
+<li><a href="https://www.aleksandra.codes/tech-content-consumer">Most tech content is bullshit</a>Don't consume. Create. Ask questions. Stay curious.</li>
 </ul>
 
 <h4>01-06-2020</h4>
