@@ -13,6 +13,16 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>15-06-2020</h4>
+<hr>
+<ul>
+<li><a href="https://www.inner-product.com/posts/fp-what-and-why/">What Functional Programming Is, What it Isn't, and Why it Matters</a> FP: local reasoning and composition make for better code.</li>
+<li><a href="https://www.infoq.com/articles/lambda-architecture-scalable-big-data-solutions/">Lambda Architecture: Design Simpler, 
+Resilient, Maintainable and Scalable Big Data Solutions</a> A walk through about Lambda architecture.
+</li>
+<li><a href="https://michaelfeathers.silvrback.com/functional-code-is-honest-code">Functional Code is Honest Code</a> Programming without side effects is a honest signature.</li>
+</ul>
+
 <h4>01-06-2020</h4>
 <hr>
 <ul>
