@@ -13,6 +13,34 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>29-07-2020</h4>
+<hr>
+<ul>
+<li><a href="https://kapernikov.com/writing-a-high-quality-data-pipeline-for-master-data-with-apache-spark-part-1/"> Writing a high quality data pipeline for master data with apache spark</a> Write ETL use Apache Spark.</li>
+<li><a href="https://sobolevn.me/2020/03/do-not-log">Do not log</a> Logging is a side effect.</li>
+<li><a href="https://jesseduffield.com/beginners-guide-to-abstraction/">Beginner’s Guide To Abstraction</a> The abstract (not type theory) and complex for code factor.</li>
+</ul>
+
+<h4>15-07-2020</h4>
+<hr>
+<ul>
+<li><a href="https://whatthefuck.is/closure">whatthefuck is a closure</a></li>
+<li><a href="https://mlinproduction.com/deploying-machine-learning-models/">The Ultimate Guide to Deploying Machine Learning Models</a></li>
+</ul>
+
+<h4>08-07-2020</h4>
+<hr>
+<ul>
+<li>
+<a href="https://www.python.org/dev/peps/pep-0622/">Structural Pattern Matching</a> Pattern matching be added to Python to create more expressive functions.
+</li>
+<li>
+<a href="https://qntm.org/clean">It's probably time to stop recommending Clean Code</a> The negative reviews about `clean code`.
+</li>
+<li><a href="https://qntm.org/write">Write Like A Programmer</a> An essay about `writing programming` more than a novel. </li>
+<li><a href=""></a></li>
+</ul>
+
 <h4>15-06-2020</h4>
 <hr>
 <ul>
@@ -21,7 +49,7 @@ Functional programming and programming in general, code architecture, engineerin
 Resilient, Maintainable and Scalable Big Data Solutions</a> A walk through about Lambda architecture.
 </li>
 <li><a href="https://michaelfeathers.silvrback.com/functional-code-is-honest-code">Functional Code is Honest Code</a> Programming without side effects is a honest signature.</li>
-<li><a href="https://www.aleksandra.codes/tech-content-consumer">Most tech content is bullshit</a>Don't consume. Create. Ask questions. Stay curious.</li>
+<li><a href="https://www.aleksandra.codes/tech-content-consumer">Most tech content is bullshit</a> Don't consume. Create. Ask questions. Stay curious.</li>
 </ul>
 
 <h4>01-06-2020</h4>
