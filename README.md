@@ -13,6 +13,15 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>31-07-2020</h4>
+<hr>
+<ul>
+<li><a href="https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html">Model evaluation, model selection, and algorithm selection in machine learning</a> 
+Cross-validation and hyperparameter tuning</li>
+<li><a href="https://www.youtube.com/watch?time_continue=75&v=mrHphQT4RpU&feature=emb_logo">FP to the Min by John De Goes</a> Functional Scala in production without Category Theory, 
+Higher Kind Type(HKT) etc.</li>
+</ul>
+
 <h4>29-07-2020</h4>
 <hr>
 <ul>
