@@ -13,6 +13,13 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>04-08-2020</h4>
+<hr>
+<ul>
+<li><a href="https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/">Monitoring Machine Learning Models in Production</a> How to monitor effectively
+for ML models by involving system design and devops domain for model performance and logs etc.</li>
+</ul>
+
 <h4>31-07-2020</h4>
 <hr>
 <ul>
@@ -47,7 +54,6 @@ Higher Kind Type(HKT) etc.</li>
 <a href="https://qntm.org/clean">It's probably time to stop recommending Clean Code</a> The negative reviews about `clean code`.
 </li>
 <li><a href="https://qntm.org/write">Write Like A Programmer</a> An essay about `writing programming` more than a novel. </li>
-<li><a href=""></a></li>
 </ul>
 
 <h4>15-06-2020</h4>
