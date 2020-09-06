@@ -13,7 +13,21 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
-<h4>04-08-2020</h4>
+<h4>06-09-2020</>
+<hr>
+<ul>
+<li><a href="https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a">Functional Data Engineering — a modern paradigm for batch data processing</a> Use functional data engineering for data pipelines in Airflow</li>
+<li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a> Similar to PEP8</li>
+</ul>
+
+<h4>07-08-2020</>
+<hr>
+<ul>
+<li><a href="https://towardsdatascience.com/github-actions-makes-one-click-to-deploy-feasible-for-ml-ci-cd-pipeline-61470ed3edbc">GitHub Actions — Makes ‘One Click To Deploy’ Feasible For ML CI/CD Pipeline</a> Create a CI/CD Pipeline for Machine Learning Applications with GitHub Actions</li>
+<li><a href=""></a></li>
+</ul>
+
+<h4>04-08-2020</>
 <hr>
 <ul>
 <li><a href="https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/">Monitoring Machine Learning Models in Production</a> How to monitor effectively
