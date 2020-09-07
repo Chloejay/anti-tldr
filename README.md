@@ -12,6 +12,11 @@ Functional programming and programming in general, code architecture, engineerin
     </li>
 </ul>
 </blockquote>
+<h4>06-10-2020</>
+<hr>
+<ul>
+<li><a href="https://blog.ionelmc.ro/2014/05/25/python-packaging/#the-structure">Packaging a python library</a> Good practice how to package.</li>
+</ul>
 
 <h4>06-09-2020</>
 <hr>
