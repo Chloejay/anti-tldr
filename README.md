@@ -13,6 +13,14 @@ Functional programming and programming in general, code architecture, engineerin
 </ul>
 </blockquote>
 
+<h4>11-09-2020</h4>
+<hr>
+<ul>
+<li><a href="https://codewithoutrules.com/2017/08/16/concurrency-python/">The tragic tale of the deadlocking Python queue</a> A story of deadlocks and despair.</li>
+<li><a href="https://pythonspeed.com/docker/">Production-ready Docker packaging for Python developers</a></li>
+<li><a href="https://pythonspeed.com/articles/official-python-docker-image/">A deep dive into the official Docker image for Python</a></li>
+</ul>
+
 <h4>08-09-2020</h4>
 <hr>
 <ul>
